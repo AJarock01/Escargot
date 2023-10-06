@@ -1,0 +1,25 @@
+h1 {
+  color: #080cf1;
+}
+
+h2 {
+  color: #080cf1;
+}
+
+li {
+  color: crimson;
+}
+
+p {
+  color: crimson;
+}
+
+body {
+  width: 800px;
+  margin: 200px;
+  border-radius: 5;
+  border: 5px solid;
+  margin-left: 1000;
+  background-color: rgb(252, 252, 252);
+  padding: 10px;
+}
